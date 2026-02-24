@@ -1,0 +1,52 @@
+body {
+    background-color: var(--slate-300);
+    font-family: 'Figtree', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--white);
+    padding: 16px 16px 24px;
+    border-radius: 15px;
+    max-width: 320px;
+    gap: 20px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.title {
+    font-size: 1.25rem;
+    text-align: center;
+    font-weight: 700;
+    color: var(--slate-900);
+}
+
+.subtitle {
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: var(--slate-500);
+}
+
+.attribution {
+    margin-top: 20px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
