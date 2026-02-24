@@ -39,9 +39,7 @@ O foco principal foi praticar estruturação semântica, organização de layout
 
 ## 🌎 Deploy
 
-Ainda não publicado no GitHub Pages.
-
-Em breve 🚀
+https://luizpaulotrein.github.io/frontend-mentor-qr-code-component/
 
 ---
 
