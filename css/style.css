@@ -44,11 +44,12 @@ body {
 }
 
 .attribution {
+    text-align: center;
     margin-top: 1.25rem;
     font-size: 0.6875rem;
-    text-align: center;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
