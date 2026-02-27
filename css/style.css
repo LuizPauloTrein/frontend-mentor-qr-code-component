@@ -42,13 +42,3 @@ body {
     margin-bottom: 1.25rem;
     color: var(--slate-500);
 }
-
-.attribution {
-    margin-top: 1.25rem;
-    font-size: 11px;
-    text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
