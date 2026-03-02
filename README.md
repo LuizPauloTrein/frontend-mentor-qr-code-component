@@ -33,7 +33,7 @@ O foco principal foi praticar estruturação semântica, organização de layout
 
 ## 📷 Preview do projeto
 
-![Preview do projeto](./images/preview.jpg)
+![Preview do projeto](./assets/design/preview.jpg)
 
 ---
 
